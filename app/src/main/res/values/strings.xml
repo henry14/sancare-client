@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sancare</string>
+    <string name="title_activity_main">Sancare</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">closed</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_office">Map</string>
+    <string name="query">Add Query</string>
+    <string name="title_activity_splash">Sancare</string>
+    <string name="title_activity_station">Station</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="query_text">Enter your query</string>
+    <string name="submit">Send</string>
+    <string name="title_activity_add_query">AddQuery</string>
+    <string name="discard">discard</string>
+    <string name="attachment">add attachment</string>
+    <string name="send">send</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="username">Username</string>
+    <string name="prompt_password_retype">Re-type password</string>
+    <string name="add_query_hint">Compose query</string>
+    <string name="action_register">Register</string>
+    <string name="login_error_message">Wrong username or password, please try again</string>
+    <string name="register_error">Empty field(s) or password mismatch
+        , please ensure everything is answered correctly</string>
+    <string name="number_error">You are not a member, or wrong number given</string>
+
+</resources>

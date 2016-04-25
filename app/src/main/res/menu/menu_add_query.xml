@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/send"
+        android:title="@string/send"
+        android:icon="@drawable/ic_launcher"
+        tool:showAsAction="always|withText"/>
+
+    <item android:id="@+id/discard"
+        android:title="@string/discard"
+        android:orderInCategory="100"
+        tool:showAsAction="never"/>
+
+    <item android:id="@+id/attach"
+        android:title="@string/attachment"
+        android:orderInCategory="100"
+        tool:showAsAction="never"/>
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        tool:showAsAction="never" />
+</menu>

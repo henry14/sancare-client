@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="accounts_array">
+        <item>Queries</item>
+        <item>Statements</item>
+        <item>Policies</item>
+        <item>Health Tips</item>
+        <item>Service Centers</item>
+        <item>Contact Us</item>
+        <item>About</item>
+    </string-array>
+
+    <string-array name="contacts_array">
+        <item>+256800110222</item>
+        <item>+256772726721</item>
+        <item>+256776810056</item>
+        <item>+256772726719</item>
+        <item>+256417</item>
+    </string-array>
+
+</resources>

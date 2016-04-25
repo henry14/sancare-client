@@ -1,0 +1,39 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="za.co.sanlam.account.QueryFragment"
+    android:id="@+id/query_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left|top">
+
+        <EditText
+            android:layout_width="248dp"
+            android:layout_height="275dp"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/query"
+            android:layout_gravity="center" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="84dp"
+            android:text="@string/submit"
+            android:id="@+id/submit"
+            android:layout_gravity="center_horizontal|bottom" />
+
+        <TextView
+            android:layout_width="179dp"
+            android:layout_height="80dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/query_text"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal|top" />
+    </FrameLayout>
+</FrameLayout>
